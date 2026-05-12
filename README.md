@@ -1,11 +1,11 @@
 # Back-end RAG - Atividade Avaliativa FIAP
 
-# Integrantes do grupo:
-# Bernardo Braga Perobeli | RM 562468
-# Felipe Stefani Honorato | RM 563380
-# Igor Paixão Sarak | RM 563726
-# Lucca Phelipe Masini | RM 564121
-# Luiz Henrique Poss | RM 562177
+##Integrantes do grupo:
+##Bernardo Braga Perobeli | RM 562468
+##Felipe Stefani Honorato | RM 563380
+##Igor Paixão Sarak | RM 563726
+##Lucca Phelipe Masini | RM 564121
+##Luiz Henrique Poss | RM 562177
 
 Este projeto consiste na evolução do back-end de um chatbot RAG, mantendo total compatibilidade com o front-end original em Streamlit. Toda a lógica de roteamento e serviços foi refatorada para utilizar um banco vetorial real (Qdrant) e modelos avançados da OpenAI.
 
